@@ -23,5 +23,5 @@ https://gumroad.com/avantcontra
 Several core modules:
 –Blender Eevee Engine: responsible for real-time rendering
 –NodeOSC, AddRoutes Blender addons: responsible for OSC data sending and receiving
-–PureDAta: responsible for sound processing, NN, BCI
+–PureData: responsible for sound processing, NN, BCI
 –BugOSC: OSC controller
