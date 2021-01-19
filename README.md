@@ -11,7 +11,7 @@ http://www.jpfep.net/pages/addroutes/
 https://github.com/JPfeP/AddRoutes
 
 AddRoutes.zip
->enable add-on in Blender preferences
+enable add-on in Blender preferences
 
 NodeOSC
 https://floatbug.com/how-to-make-interactive-audiovisual-effect-in-5-minutes-using-blender-and-maxmsp/
