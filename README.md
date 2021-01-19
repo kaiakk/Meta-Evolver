@@ -2,7 +2,7 @@
 
 Meta-Learning Multi-Agent System Diagram
 
-![Screen Shot 2021-01-19 at 21 42 51](https://user-images.githubusercontent.com/34107769/105090889-4e9acd80-5a9f-11eb-8f5a-4b69d798a446.png)
+![Screen Shot 2021-01-19 at 21 43 59](https://user-images.githubusercontent.com/34107769/105091021-830e8980-5a9f-11eb-801c-1c3b4480c3bf.png)
 
 Blender 2.8
 
