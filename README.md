@@ -2,9 +2,7 @@
 
 Meta-Learning Multi-Agent System Diagram
 
-![](diagram/diagram.jpg)
-
-<img src = “diagram/diagram.jpg” width = 200 >
+![META-EVOLVER diagram-01](https://user-images.githubusercontent.com/34107769/105088631-6fadef00-5a9c-11eb-96ed-9cda810b906e.jpg)
 
 Blender 2.8
 
