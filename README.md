@@ -2,7 +2,7 @@
 
 Meta-Learning Multi-Agent System Diagram
 
-![alt text here](diagram/diagram.jpg)
+![](diagram/diagram.jpg)
 
 <img src = “diagram/diagram.jpg” width = 200 >
 
