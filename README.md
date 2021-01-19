@@ -2,7 +2,7 @@
 
 Meta-Learning Multi-Agent System Diagram
 
-![alt text here](Meta-Evolverdiagram/META-EVOLVER diagram-01.jpg)
+![alt text here](diagram.jpg)
 
 Blender 2.8
 
