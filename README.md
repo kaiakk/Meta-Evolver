@@ -4,7 +4,7 @@ Meta-Learning Multi-Agent System Diagram
 
 ![alt text here](diagram/diagram.jpg)
 
-<img src = “diagram/diagram.jpg”>
+<img src = “diagram/diagram.jpg” width = 200 >
 
 Blender 2.8
 
