@@ -1,8 +1,10 @@
 # Meta-Evolver
 
 Meta-Learning Multi-Agent System Diagram
-
+<br><br>
 ![alt text here](diagram/diagram.jpg)
+
+<br>
 
 <img src = “diagram/diagram.jpg”>
 
