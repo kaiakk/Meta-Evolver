@@ -6,6 +6,12 @@ Meta-Learning Multi-Agent System Diagram
 
 ![Screen Shot 2021-01-19 at 21 43 59](https://user-images.githubusercontent.com/34107769/105091021-830e8980-5a9f-11eb-801c-1c3b4480c3bf.png)
 
+
+
+*This research was supported by CTU grant SGS19/117/OHK1/2T/15.
+
+SW dependencies
+
 Blender 2.8
 
 dependencies
