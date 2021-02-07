@@ -6,7 +6,8 @@ Meta-Learning Multi-Agent System Diagram
 
 ![Screen Shot 2021-01-19 at 21 43 59](https://user-images.githubusercontent.com/34107769/107146452-a3b45b80-6948-11eb-9408-746e7b334a10.jpg)
 
-![Evolver] (https://user-images.githubusercontent.com/34107769/107146731-3f929700-694a-11eb-991c-976f8aa3fbcb.png)
+
+![Screen Shot 2021-01-19 at 21 43 59](https://user-images.githubusercontent.com/34107769/107146731-3f929700-694a-11eb-991c-976f8aa3fbcb.png)
 
 *This research was supported by CTU grant SGS19/117/OHK1/2T/15.
 
