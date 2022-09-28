@@ -44,5 +44,5 @@ Several core modules:
 
 
 ![posterImage-15044](https://user-images.githubusercontent.com/34107769/192791229-5fbcacde-b55b-4bae-ade0-ffc04eaabb6e.png)
-![posterImage-12094](https://user-images.githubusercontent.com/34107769/192794179-2667d229-fb70-4d85-bdf9-83f2305c9cbd.png)
+
 
