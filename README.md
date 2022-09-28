@@ -41,3 +41,7 @@ Several core modules:
 –NodeOSC, AddRoutes Blender addons: responsible for OSC data sending and receiving
 –PureData: responsible for sound processing, NN, BCI
 –BugOSC: OSC controller
+
+
+![posterImage-15044](https://user-images.githubusercontent.com/34107769/192791229-5fbcacde-b55b-4bae-ade0-ffc04eaabb6e.png)
+![st-8B96594B-3497-4171-9013-6AA0B77F800E-14297](https://user-images.githubusercontent.com/34107769/192791364-a1bbee15-22aa-4214-a7a5-934d828051e0.jpg)
