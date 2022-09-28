@@ -43,6 +43,6 @@ Several core modules:
 –BugOSC: OSC controller
 
 
-![posterImage-15044](https://user-images.githubusercontent.com/34107769/192791229-5fbcacde-b55b-4bae-ade0-ffc04eaabb6e.png)
+![Active_Render 0856 4 1-9704](https://user-images.githubusercontent.com/34107769/192794862-44f493f6-005f-41a6-b7d1-d4f797d80d02.png)
 
 
