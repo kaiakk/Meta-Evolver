@@ -9,6 +9,9 @@ Meta-Learning Multi-Agent System Diagram
 
 ![Screen Shot 2021-01-19 at 21 43 59](https://user-images.githubusercontent.com/34107769/107146731-3f929700-694a-11eb-991c-976f8aa3fbcb.png)
 
+![Sound Shape Space presentation PhD 6_2021_KK 001](https://user-images.githubusercontent.com/34107769/192803548-6ca6aa9d-197e-45d2-b2a6-f3ae7615b117.jpeg)
+
+
 *This research was supported by CTU grant SGS19/117/OHK1/2T/15.
 
 
